@@ -43,6 +43,7 @@ seo:
       value: images/6.jpg
       relativeUrl: true
 layout: post
+draft: true
 ---
 
 Photo by [David Marcu.](https://unsplash.com/photos/wcHCzgo0_mQ)
