@@ -37,6 +37,7 @@ seo:
       value: images/4.jpg
       relativeUrl: true
 layout: post
+draft: true
 ---
 
 Photo by [George Sultan.](https://www.pexels.com/photo/three-person-about-to-surf-1768784/)
